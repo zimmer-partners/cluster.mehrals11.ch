@@ -4,6 +4,8 @@ In unserer 352m²-Cluster-Wohnung am Dialogweg 6 wird per 1.10.2018 ein Zwei-Zim
 
 Die beiden, freien Zimmer sind rund 25m² und 19m² gross und liegen im südöstlichen Cluster¹ mit eignem Bad und einer Teeküche im Eingangsbereich. 
 
+Wer Interesse hegt findet auf unserer [Hompage für Interessentinnen](https://cluster.mehrals11.ch/) detailierte Informationen oder melde sich gerne bei [Bigna, Florien oder Moritz](mailto:cluster@mehrals11.ch?subject=Interesse%20an%20einem%20Cluster%20bei%20Mehr%20als%2011).
+
 ## Die Wohnung.
 
 Die Wohnung ist total 352m² gross und beherbergt fünf Cluster mit je eigenem Bad und einer Teeküche und einer Gemeinschaftsfläche mit riesigem Wohnzimmer mit Wohnküche, gemeinschaftlichem Büro und einem Gästezimmer mit gemeinschaftlichem Badezimmer mit Badewanne.
