@@ -8,7 +8,7 @@ Wer Interesse hegt, findet auf unserer [Hompage für Interessentinnen](https://c
 
 ## Die Wohnung.
 
-Die Wohnung ist total 352m² gross und beherbergt fünf Cluster mit je eigenem Bad und einer Teeküche und einer Gemeinschaftsfläche mit riesigem Wohnzimmer mit Wohnküche, gemeinschaftlichem Büro und einem Gästezimmer mit gemeinschaftlichem Badezimmer mit Badewanne.
+Die Wohnung ist total 352m² gross und beherbergt fünf Cluster mit je eigenem Bad und einer Teeküche und einer Gemeinschaftsfläche mit riesigem Wohnzimmer mit Wohnküche, gemeinschaftlichem Büro, einem Gästezimmer mit gemeinschaftlichem Badezimmer mit Badewanne und einem riesigen, sonnigen Balkon mit Blick über das schöne Schwamendingen und an den Zürichberg.
 
 Weil wir uns gegenüber der Genossenschaft der Verdichtung von Wohnraum verpflichtet haben, muss sie von mindestens sieben Personen bewohnt werden. 
 
@@ -40,7 +40,7 @@ Wir sind Anastasia, Bigna, Erik, Flavio, Florien, Jordi Moritz. Wir sind Mehr al
 
 ## Wen wir suchen.
 
-Wir suchen ein Pärchen oder Mami  oder Papi mit Kind. Das gesellige WG-Leben ist uns wichtig, wir respektieren aber auch Freiraum und Rückzug der Einzelnen: Wir kochen und essen gerne, trinken Tee und Bier auf dem Balkon, schmeissen Grill oder Beamer an, spielen Gesellschaftsspiele und gehen auch schon mal zusammen wandern oder tanzen.
+Wir suchen ein Pärchen oder Mami oder Papi mit Kind oder zwei Singles, die Nähe nicht scheuen. Das gesellige WG-Leben ist uns wichtig, wir respektieren aber auch Freiraum und Rückzug der Einzelnen: Wir kochen und essen gerne, trinken Tee und Bier auf dem Balkon, schmeissen Grill oder Beamer an, spielen Gesellschaftsspiele und gehen auch schon mal zusammen wandern oder tanzen.
 
 Neben unserem eigenen Haushalt haben wir viel Kontakt mit den acht Gross-WGs im Haus und unseren Nachbarn im Quartier. Manche von uns engagieren sich darüber hinaus in verschiedenen Quartiergruppen für die soziale, bauliche und ökologische Entwicklung unserer Nachbarschaft.
 
