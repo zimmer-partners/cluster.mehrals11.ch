@@ -15,7 +15,8 @@ for more information: http://getkirby.com/license
 
 */
 
-c::set('license', 'put your license key here');
+c::set('license', 'K2-PERSONAL-19d165ed72b2cbca25c166e98e2723ff');
+c::set('panel.install', FALSE);
 
 /*
 
@@ -28,3 +29,13 @@ make Kirby work. For more fine-grained configuration
 of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
+
+c::set('languages', array(
+  array(
+    'code'    => 'de',
+    'name'    => 'Deutsch',
+    'default' => true,
+    'locale'  => 'de_DE',
+    'url'     => '/',
+  ),
+));
