@@ -13,17 +13,19 @@
     <div class="text wrap">
       <?= $page->text()->kirbytext() ?>
     </div>
-  
+    
+    <?php if ($site->pages()->filterBy('template', 'projects')->visible()->count() > 0): ?>
     <section class="projects-section">
       
       <div class="wrap wide">
-        <h2>Latest Projects</h2>
+        <h2>Aktuelles</h2>
         <?php snippet('showcase', ['limit' => 3]) ?>
         <p class="projects-section-more"><a href="<?= page('projects')->url() ?>" class="btn">show all projects &hellip;</a></p>
       </div>
       
     </section>
-
+    <?php endif; ?>
+  
   </main>
 
 <?php snippet('footer') ?>
