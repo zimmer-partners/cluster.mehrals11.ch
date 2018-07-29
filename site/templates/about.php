@@ -41,10 +41,14 @@
             </div>
             
             <div class="team-contact text">
-              <i>Telefon:</i><br />
-              <?= kirbytag(['tel' => $member->phone()->html()]) ?><br />
-              <i>E-Mail:</i><br />
-              <a href="mailto:<?= $member->email()->html() ?>"><?= $member->email()->html() ?></a><br />
+              <?php if ($member->phone()->isNotEmpty()): ?>
+                <i>Telefon:</i><br />
+                <?= kirbytag(['tel' => $member->phone()->html()]) ?><br />
+              <?php endif; ?>
+              <?php if ($member->email()->isNotEmpty()): ?>
+                <i>E-Mail:</i><br />
+                <a href="mailto:<?= $member->email()->html() ?>"><?= $member->email()->html() ?></a><br />
+              <?php endif; ?>
             </div>
           </li>
         <?php endforeach ?>

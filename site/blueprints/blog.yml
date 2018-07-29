@@ -9,7 +9,6 @@ pages:
 
 options: 
   template: false
-  status: false
 
 icon: newspaper-o
 

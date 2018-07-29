@@ -6,14 +6,16 @@ pages:
   template: project
 
 options: 
-  template: false  
-  status: false  
-  url: false  
+  template: false
 
 fields:
   title:
     label: Title
     type:  text
+
+  intro:
+    label: Intro
+    type:  textarea
 
   text:
     label: Text

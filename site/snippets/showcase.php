@@ -1,6 +1,6 @@
 <?php
 
-$projects = page('projects')->children()->visible();
+$projects = $site->pages()->filterBy('template', 'projects')->visible()->children();
 
 /*
 
@@ -22,7 +22,7 @@ if(isset($limit)) $projects = $projects->limit($limit);
 
 <ul class="showcase grid gutter-1">
 
-  <?php foreach($projects as $project): ?>
+  <?php if($projects->count() > 0): foreach($projects as $project): ?>
 
     <li class="showcase-item column">
         <a href="<?= $project->url() ?>" class="showcase-link">
@@ -35,6 +35,6 @@ if(isset($limit)) $projects = $projects->limit($limit);
         </a>
     </li>
 
-  <?php endforeach ?>
+  <?php endforeach; endif; ?>
 
 </ul>

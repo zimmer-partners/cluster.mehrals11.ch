@@ -14,13 +14,13 @@
       <?= $page->text()->kirbytext() ?>
     </div>
     
-    <?php if ($site->pages()->filterBy('template', 'projects')->visible()->count() > 0): ?>
+    <?php $projects_pages= $site->pages()->filterBy('template', 'projects')->visible(); if ($projects_pages->count() > 0): ?>
     <section class="projects-section">
       
       <div class="wrap wide">
-        <h2>Aktuelles</h2>
+        <h2>Freie Cluster</h2>
         <?php snippet('showcase', ['limit' => 3]) ?>
-        <p class="projects-section-more"><a href="<?= page('projects')->url() ?>" class="btn">show all projects &hellip;</a></p>
+        <p class="projects-section-more"><a href="<?= $projects_pages->first()->url() ?>" class="btn">Alle freien Cluster &hellip;</a></p>
       </div>
       
     </section>
