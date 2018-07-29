@@ -20,7 +20,7 @@
     
     <section class="team wrap wide">
       
-      <h2>Our Purring Team</h2>
+      <h2>Unsere Gemeinschaft</h2>
 
       <ul class="team-list grid gutter-1">
         <?php foreach($page->children()->visible() as $member): ?>
@@ -41,9 +41,9 @@
             </div>
             
             <div class="team-contact text">
-              <i>Phone:</i><br />
+              <i>Telefon:</i><br />
               <?= kirbytag(['tel' => $member->phone()->html()]) ?><br />
-              <i>Email:</i><br />
+              <i>E-Mail:</i><br />
               <a href="mailto:<?= $member->email()->html() ?>"><?= $member->email()->html() ?></a><br />
             </div>
           </li>

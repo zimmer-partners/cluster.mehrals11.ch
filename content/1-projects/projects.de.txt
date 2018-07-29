@@ -1,5 +1,11 @@
-Title: Cluster
+Title: Wohnung
 
 ----
 
-Text: This portfolio layout might be used to showcase your latest design work, a collection of your favorite recipes or maybe something completely different? All projects are subpages of the <mark>projects</mark> page and are fetched by a snippet file called <mark>showcase.php</mark>.
+Text: 
+
+Die Wohnung ist total 352m² gross und beherbergt fünf Cluster mit je eigenem Bad und einer Teeküche und einer Gemeinschaftsfläche mit riesigem Wohnzimmer mit Wohnküche, gemeinschaftlichem Büro, einem Gästezimmer mit gemeinschaftlichem Badezimmer mit Badewanne und einem riesigen, sonnigen Balkon mit Blick über das schöne Schwamendingen und an den Zürichberg.
+
+Weil wir uns gegenüber der Genossenschaft der Verdichtung von Wohnraum verpflichtet haben, muss sie von mindestens sieben Personen bewohnt werden. 
+
+Freie Cluster findet ihr untenstehend mit Text und Bild dokumentiert.
