@@ -1,0 +1,4 @@
+[submodule "auto-orient-images"]
+	path = site/plugins/auto-orient-images
+	url = https://github.com/pedroborges/kirby-auto-orient-images.git
+	branch = master
