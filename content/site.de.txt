@@ -6,8 +6,8 @@ Author: Moritz Zimmer & Co.
 
 ----
 
-Description: Diese Website richtet sich an Beweberinnen und Bewerber für Cluser in unsrer 352m² grossen Genossenschaftswohnung im schönen Schwamendingen.
+Description: Diese Website richtet sich an Beweberinnen und Bewerber für Cluser oder WG-Zimmer in unsrer 352m² grossen Genossenschaftswohnung im schönen Schwamendingen.
 
 ----
 
-Copyright: © 2009–(date: Year) (link: about text: Verein Mehr als 11 Süd)
+Copyright: © 2009–(date: Year) (link: ihr-wir text: Verein Mehr als 11 Süd)
