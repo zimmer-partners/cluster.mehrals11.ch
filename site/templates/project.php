@@ -21,6 +21,9 @@
       foreach($page->images()->sortBy('sort', 'asc') as $image): ?>
         <figure>
           <img src="<?= $image->url() ?>" alt="<?= $page->title()->html() ?>" />
+          <?php if ($image->caption()->isNotEmpty()): ?>
+            <figcaption><?= $image->caption()->html() ?></figcaption>
+          <?php endif; ?>
         </figure>
       <?php endforeach ?>
       
