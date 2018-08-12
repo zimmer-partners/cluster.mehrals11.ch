@@ -20,7 +20,7 @@
     
     <section class="team wrap wide">
       
-      <h2>Unsere Gemeinschaft</h2>
+      <h2 id="team">Unsere Gemeinschaft</h2>
 
       <ul class="team-list grid gutter-1">
         <?php foreach($page->children()->visible() as $member): ?>
