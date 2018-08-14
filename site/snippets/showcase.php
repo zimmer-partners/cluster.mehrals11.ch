@@ -1,6 +1,6 @@
 <?php
 
-$projects = $site->pages()->filterBy('template', 'projects')->visible()->children();
+$projects = $site->pages()->filterBy('template', 'projects')->children()->visible();
 
 /*
 
