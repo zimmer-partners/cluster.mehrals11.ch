@@ -1,6 +1,11 @@
 title: Projects
 
-files: false
+files: 
+  sortable: true
+  fields:
+    caption:
+      label: Caption
+      type: text
 
 pages:
   template: project

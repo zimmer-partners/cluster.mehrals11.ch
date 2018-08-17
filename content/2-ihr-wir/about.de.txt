@@ -14,9 +14,11 @@ Das gesellige WG-Leben ist uns wichtig, wir respektieren aber auch Freiraum und 
 
 Neben unserem eigenen Haushalt haben wir viel Kontakt mit den acht weiteren Wohngemeinschaften im Haus und unseren Nachbarn im Quartier. Manche von uns engagieren sich darüber hinaus in verschiedenen Quartiergruppen für die soziale, bauliche und ökologische Entwicklung unserer Nachbarschaft.
 
-¹ Da Flavio befürchtet, mehr Rückzug zu gebrauchen, als auch schon, kommt er neben seinem Zimmer im (link:wohnung/suedosten text:Südost-Cluster) zuweilen in Wochenaufenthalt bei einer guten Freundin unter. 
+¹ Da Flavio befürchtet, mehr Rückzug zu gebrauchen, als auch schon, kommt er neben seinem Zimmer im (link:wohnung/suedwesten text:Südwest-Cluster) zuweilen in Wochenaufenthalt bei einer guten Freundin unter. 
 
-² Jordi und Anastasia möchten mittelfristig lieber in eine eigne Wohnung ziehen, aber auf dem Areal der Genossenschaft bleiben. Ihre Suche hat bereits begonnen, weshalb sie in den kommenden Tagen auch ihren (link:ihr-wir/nordwesten text:Zwei-Zimmer-Cluster im Nordwesten) ausschreiben werden. 
+² Jordi und Anastasia möchten mittelfristig lieber in eine eigne Wohnung ziehen, aber auf dem Areal der Genossenschaft bleiben. Ihre Suche hat bereits begonnen, weshalb sie in den kommenden Tagen auch ihren (link:wohnung/nordosten text:Zwei-Zimmer-Cluster im Nordosten) ausschreiben werden. 
+
+Zudem plant Moritz je nach Konstellation einen Umzug in den Südwesten, weshalb anstatt dem Zimmer dort sein (link:wohnung/nordwesten text:Einzimmer-Cluster im Nordwesten) frei werden könnte.
 
 ## Wer wir sind.
 
