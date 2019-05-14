@@ -15,7 +15,7 @@ Contactoptions:
 - 
   title: Contact
   text: >
-    Meldet Euch direkt bei Bigna, Flavio,
+    Melde dich direkt bei Bigna, Flavio,
     Florien, Janne, Naveen, Ursina und
     Moritz.
   url: mailto:cluster@mehrals11.ch

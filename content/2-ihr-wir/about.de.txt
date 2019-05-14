@@ -2,7 +2,7 @@ Title: Ihr & Wir
 
 ----
 
-Intro: Wir suchen momentan eine/n Untermieter/in für die Zeit von Mitte Februar bis Ende September 2019. Das Zimmer befindet sich im (link: https://cluster.mehrals11.ch/wohnung/suedwesten text: Südwesten ).
+Intro: Wir suchen momentan eine/n Mitbewohner/in ab Mitte Februar 2019. Das freie Zimmer befindet sich im (link: https://cluster.mehrals11.ch/wohnung/suedwesten text: Südwesten ).
 
 ----
 
@@ -26,4 +26,4 @@ Wir wohnen gerne, aber nicht nur, haben gerne Menschen und Besucher um uns rum, 
 
 Wir schätzen Kinder, spielen und experimentieren gerne und oft, auch im Leben sonst.
 
-Wir sind Bigna, Flavio, Florien, Janne, Moritz und Naveen. Wir sind [Mehr als 11](https://www.youtube.com/watch?v=8EV0jm7mM5s).
+Wir sind Flavio, Florien, Janne, Moritz,  Naveen und Bigna. Wir sind [Mehr als 11](https://www.youtube.com/watch?v=8EV0jm7mM5s).
