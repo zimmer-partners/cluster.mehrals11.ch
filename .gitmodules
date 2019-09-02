@@ -2,3 +2,7 @@
 	path = site/plugins/auto-orient-images
 	url = https://github.com/pedroborges/kirby-auto-orient-images.git
 	branch = master
+[submodule "Content"]
+	path = content
+	url = git@github.com:moritzz/Cluster-Content.git
+	branch = master
