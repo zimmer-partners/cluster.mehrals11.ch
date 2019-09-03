@@ -40,3 +40,7 @@ c::set('languages', array(
     'url'     => '/',
   ),
 ));
+
+// Increase memory limit
+
+ini_set('memory_limit','512M');
