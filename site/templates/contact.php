@@ -10,8 +10,11 @@
       <hr />      
     </header>
     
+    <div class="text wrap">
+      <?= $page->text()->kirbytext() ?>
+    </div>
+    
     <div class="wrap wide">
-      <h2>Get in Touch</h2>
       
       <ul class="contact-options">
         <?php foreach($page->contactoptions()->toStructure() as $item): ?>
@@ -30,10 +33,6 @@
           </li>
         <?php endforeach ?>
       </ul>
-    </div>
-      
-    <div class="contact-twitter text wrap cf">
-      <?= $page->text()->kirbytext() ?>
     </div>
     
   </main>

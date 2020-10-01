@@ -14,7 +14,11 @@ fields:
   intro:
     label: Intro
     type: textarea
-    
+  
+  text:
+    label: Text
+    type: textarea
+
   contactoptions:
     label: Contact Options
     type: structure
@@ -35,7 +39,3 @@ fields:
       linktext:
         label: Link Text
         type: text
-  
-  text:
-    label: Text
-    type: textarea
